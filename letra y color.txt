@@ -1,0 +1,6 @@
+Como color de fondo de los articles he utilizado #A1DD70 y #A6E3E9 
+Estos colores los he sacado de la siguiente url: https://colorhunt.co/
+
+La letra que he empleado a sido la 'Roboto', sans-serif 
+La letra la he sacado de la siguiente url: https://fonts.google.com/
+
